@@ -1,6 +1,18 @@
+.firstTitle{
+    color:black;
+    text-align: center;
+}
+
+.menu{
+    background-color: transparent;
+}
+
 body{
-    background-color: blue;
     color: aliceblue;
+    background-color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    color: black;
 }
 
 a{
@@ -10,6 +22,7 @@ a{
 img{
     width: 150px;
     height: 160px;
+    padding-left: 50px;
 }
 
 video{
@@ -17,6 +30,37 @@ video{
     height: 300px;
 }
 
+.secondTitle{
+    font-size: 35px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
 .parrafo{
     background-color: blueviolet;
+}
+
+
+.center{
+    text-align: center;
+}
+#backgr{
+    text-align: center;
+}
+
+.caja{
+    font-size: 20px;
+    text-align: center;
+    width: 280px;
+    background-color: rgb(105, 125, 103);
+    border-radius: 20px;
+}
+
+.container-centro{
+    height: 70px;
+    width: 450px;
+    font-size: 30px;
+    background-color: aliceblue;
+    text-align: center;
+    padding-top: 30px;
+    color: red;
 }
